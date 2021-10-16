@@ -11,10 +11,10 @@
 - No age. Adjust body proportions by your self.
 - No sex/gender. Not a male. Not a female.
 - No hair. Give your own favorite one.
+- No body color. Paint as you like.
 - Of course, no name is given yet. Vanilla flavored.
 
 ## TODO
-
 - Make topology clean.
 - Add armatures.
 
