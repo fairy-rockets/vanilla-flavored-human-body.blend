@@ -1,6 +1,6 @@
 # Vanilla flavored human body (blender model)
 
-![.github/image.jpg](.github/image.jpg)
+[![.github/image.jpg](.github/image.jpg)](.github/image.jpg)
 
 ## Features
 
