@@ -28,3 +28,7 @@
 # References
 
 - [Blenderで作るキャラクターモデリング入門実践ガイド](https://www.amazon.co.jp/dp/B091KQFSRC)
+
+# Others
+
+- [API page about this repo](https://api.github.com/repos/ledyba/vanilla-flavored-human-body.blend)
