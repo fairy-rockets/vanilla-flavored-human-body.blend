@@ -11,7 +11,7 @@
 - Vanilla flavored human.
   - No age. Adjust body proportions by your self.
   - No sex/gender. Not a male. Not a female. Not any sexuality.
-  - No ear. Friendly for kekomimi or elf-ears.
+  - No ear. Friendly for kemo-mimis or elf-ears.
   - No hair. Give your own favorite one.
   - No body color. Paint as you like.
   - No clothes. Bring nice one from your closet.
