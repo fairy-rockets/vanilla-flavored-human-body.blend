@@ -4,22 +4,21 @@
 
 ## Features
 
-- Divided into 3 parts:
-  - Body
-  - Face
-  - Parietal (Back and top of head)
-- Vanilla flavored human.
-  - No age. Adjust body proportions by your self.
-  - No sex/gender. Not a male. Not a female. Not any sexuality.
-  - No ear. Friendly for kemo-mimis or elf-ears.
-  - No hair. Give your own favorite one.
-  - No body color. Paint as you like.
-  - No clothes. Bring nice one from your closet.
-  - Of course, no name is given yet.
+Vanilla flavored human.
+
+- No age. Adjust body proportions by your self.
+- No sex/gender. Not a male. Not a female. Not any sexuality.
+- No ear. Friendly for kemo-mimis or elf-ears.
+- No hair. Give your own favorite one.
+- No body color. Paint as you like.
+- No clothes. Bring nice one from your closet.
+- Of course, no name is given yet.
+
+You can derive this model to create your own one.
 
 ## TODO
-- Refine topology.
-- Add armatures.
+
+- Refine armatures.
 
 # LICENSE
 
