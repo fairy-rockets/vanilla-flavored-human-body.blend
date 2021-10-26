@@ -27,6 +27,7 @@ You can derive this model to create your own one.
 # References
 
 - [Blenderで作るキャラクターモデリング入門実践ガイド](https://www.amazon.co.jp/dp/B091KQFSRC)
+- [Blender2.8で肩、肘、腕の曲げとねじれを表現するボーン設定とウェイトペイントのコツ | soramame式](https://mrsoramame.jpn.org/archives/1381)
 
 # Others
 
