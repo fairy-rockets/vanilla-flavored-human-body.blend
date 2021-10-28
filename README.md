@@ -4,7 +4,7 @@
 
 ## Features
 
-Vanilla flavored human.
+Vanilla flavored human:
 
 - No age. Adjust body proportions by your self.
 - No sex/gender. Not a male. Not a female. Not any sexuality.
@@ -15,10 +15,6 @@ Vanilla flavored human.
 - Of course, no name is given yet.
 
 You can derive this model to create your own one.
-
-## TODO
-
-- Refine armatures.
 
 # LICENSE
 
@@ -32,6 +28,6 @@ You can derive this model to create your own one.
   - [Blender2.8で肩、肘、腕の曲げとねじれを表現するボーン設定とウェイトペイントのコツ | soramame式](https://mrsoramame.jpn.org/archives/1381)
   - [関節のボーンとポリゴンフローに関するTIPS](https://dskjal.com/blender/joint-tips.html)
 
-# Others
+## TODO
 
-- [API page about this repo](https://api.github.com/repos/ledyba/vanilla-flavored-human-body.blend)
+- Refine armatures.
