@@ -19,6 +19,17 @@ You can derive this model to create your own one!
   - No clothes. Bring nice one from your closet.
   - Of course, no name is given yet.
 
+# To Fork:
+
+```bash
+git remote add vanilla git@github.com:fairy-rockets/vanilla-flavored-human-body.blend.git
+```
+
+```bash
+git fetch vanilla
+git merge vanilla/magistra
+```
+
 # LICENSE
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
