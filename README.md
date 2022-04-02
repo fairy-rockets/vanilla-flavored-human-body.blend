@@ -42,6 +42,7 @@ git merge vanilla/magistra
 
 ## Bone / Skinning
 
+- [Blenderのアーマチュア、ボーン、リグを理解する - 3DCGで何をどう作るか考え中](https://www.yamato-tsukasa.com/entry/b3d-armature-bone-rig-diff)
 - [Blender2.8で肩、肘、腕の曲げとねじれを表現するボーン設定とウェイトペイントのコツ | soramame式](https://mrsoramame.jpn.org/archives/1381)
 - [関節のボーンとポリゴンフローに関するTIPS](https://dskjal.com/blender/joint-tips.html)
 - [GUILTY GEAR Xrd開発スタッフが送るスキニングのためのモデリング TIPS](https://www.slideshare.net/ASW_Yokohama/guilty-gear-xrd-tips-208013275)
