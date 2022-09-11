@@ -46,3 +46,7 @@ git merge vanilla/magistra
 - [Blender2.8で肩、肘、腕の曲げとねじれを表現するボーン設定とウェイトペイントのコツ | soramame式](https://mrsoramame.jpn.org/archives/1381)
 - [関節のボーンとポリゴンフローに関するTIPS](https://dskjal.com/blender/joint-tips.html)
 - [GUILTY GEAR Xrd開発スタッフが送るスキニングのためのモデリング TIPS](https://www.slideshare.net/ASW_Yokohama/guilty-gear-xrd-tips-208013275)
+
+## Weight paint
+
+- [VRMモデルの服から体がはみ出す現象を「Blender」で解決！ - Blender ウォッチング - 窓の杜](https://forest.watch.impress.co.jp/docs/serial/blenderwthing/1389326.html)
